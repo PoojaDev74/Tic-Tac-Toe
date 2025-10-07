@@ -54,6 +54,9 @@ npm run dev
 
 ---
 
+## 🔗 Live Demo
+https://pocketnotes-app-frontend.onrender.com
+
 🧩 Future Enhancements
 
 🔊 Add sound effects for each move.
