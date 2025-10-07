@@ -23,6 +23,12 @@ It showcases front-end logic, dynamic UI updates, and reusable component design 
 
 ---
 
+## 🔗 Live Demo 
+
+tic-tac-toe-html-project.netlify.app
+
+---
+
 ## 🛠 Tech Stack
 
 | Category     | Technology Used |
@@ -54,4 +60,5 @@ npm run dev
 
 ---
 
-
+## 📜 License
+Licensed under the MIT License – feel free to use & modify!
