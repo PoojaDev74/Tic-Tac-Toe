@@ -54,19 +54,4 @@ npm run dev
 
 ---
 
-## 🔗 Live Demo
 
-tic-tac-toe-html-project.netlify.app
-
----
-
-
-🧩 Future Enhancements
-
-🔊 Add sound effects for each move.
-
-🌈 Improve animations & transitions.
-
-🧑‍🤝‍🧑 Online multiplayer mode (using Socket.io).
-
-📱 Add leaderboard tracking.
