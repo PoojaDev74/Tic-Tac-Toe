@@ -47,5 +47,5 @@ If all cells are filled with no winner, it's a draw.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone (https://github.com/PoojaDev74/Tic-Tac-Toe.git)
 cd tic-tac-toe
