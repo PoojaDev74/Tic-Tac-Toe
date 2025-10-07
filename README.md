@@ -48,4 +48,18 @@ If all cells are filled with no winner, it's a draw.
 ### 1. Clone this repository
 ```bash
 git clone (https://github.com/PoojaDev74/Tic-Tac-Toe.git)
-cd tic-tac-toe
+npm install
+npm start
+npm run dev
+
+---
+
+🧩 Future Enhancements
+
+🔊 Add sound effects for each move.
+
+🌈 Improve animations & transitions.
+
+🧑‍🤝‍🧑 Online multiplayer mode (using Socket.io).
+
+📱 Add leaderboard tracking.
