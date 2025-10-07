@@ -29,10 +29,19 @@ It showcases front-end logic, dynamic UI updates, and reusable component design 
 |--------------|----------------|
 | *Frontend*   | React.js / JavaScript |
 | *Styling*    | CSS3 / TailwindCSS |
-| *State Logic*| React Hooks / useState / useEffect |
 | *Deployment* | Netlify  |
 
 ---
+
+## 🧠 Game Logic
+
+The game board is represented as a 3x3 grid.
+
+Players take turns marking cells with X and O.
+
+The game checks for a win condition (3 in a row, column, or diagonal) after every move.
+
+If all cells are filled with no winner, it's a draw.
 
 ## 🚀 Getting Started
 
