@@ -55,7 +55,11 @@ npm run dev
 ---
 
 ## 🔗 Live Demo
-https://pocketnotes-app-frontend.onrender.com
+
+tic-tac-toe-html-project.netlify.app
+
+---
+
 
 🧩 Future Enhancements
 
